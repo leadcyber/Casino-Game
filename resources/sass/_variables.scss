@@ -1,0 +1,15 @@
+$playing-card-sm-breakpoint: 959px;
+
+$playing-card-height-width-ratio: 1.39; // height / width
+$playing-card-height: 175px;
+$playing-card-width: calc(#{$playing-card-height} / #{$playing-card-height-width-ratio});
+
+$playing-card-height-sm: 100px;
+$playing-card-width-sm: calc(#{$playing-card-height-sm} / #{$playing-card-height-width-ratio});
+
+$mobile-navigation-drawer-header-box-shadow: 0 10px 15px -3px rgba(0, 0, 0, .2), 0 4px 6px -2px rgba(0, 0, 0, .1);
+$mobile-chat-drawer-header-color: #0d1625;
+$chat-drawer-bg-color: #1d2839;
+$chat-message-input-label-color: #3d5564;
+$chat-message-input-box-shadow: 0 1px 3px 0 rgba(0, 0, 0, .2), 0 1px 2px 0 rgba(0, 0, 0, .12);
+$chat-message-input-border-style: 2px solid #2f4553;
