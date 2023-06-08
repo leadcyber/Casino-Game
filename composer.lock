@@ -1168,16 +1168,16 @@
             "time": "2022-02-09T13:33:34+00:00"
         },
         {
-            "name": "financialplugins/omnipay-cryptapi",
+            "name": "casino/omnipay-cryptapi",
             "version": "1.0",
             "source": {
                 "type": "git",
-                "url": "https://github.com/financialplugins/omnipay-cryptapi.git",
+                "url": "https://github.com/casino/omnipay-cryptapi.git",
                 "reference": "1add746b8f63acab710cc62168344b7c8298ba7d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/financialplugins/omnipay-cryptapi/zipball/1add746b8f63acab710cc62168344b7c8298ba7d",
+                "url": "https://api.github.com/repos/casino/omnipay-cryptapi/zipball/1add746b8f63acab710cc62168344b7c8298ba7d",
                 "reference": "1add746b8f63acab710cc62168344b7c8298ba7d",
                 "shasum": ""
             },
@@ -1200,34 +1200,34 @@
             ],
             "authors": [
                 {
-                    "name": "FinancialPlugins",
-                    "email": "info@financialplugins.com"
+                    "name": "Casino",
+                    "email": "info@casino.com"
                 }
             ],
             "description": "CryptAPI.io driver for the Omnipay payment processing library",
-            "homepage": "https://github.com/financialplugins/omnipay-cryptapi",
+            "homepage": "https://github.com/casino/omnipay-cryptapi",
             "keywords": [
                 "cryptapi",
                 "crypto",
                 "omnipay"
             ],
             "support": {
-                "issues": "https://github.com/financialplugins/omnipay-cryptapi/issues",
-                "source": "https://github.com/financialplugins/omnipay-cryptapi/tree/1.0"
+                "issues": "https://github.com/casino/omnipay-cryptapi/issues",
+                "source": "https://github.com/casino/omnipay-cryptapi/tree/1.0"
             },
             "time": "2022-04-28T15:05:52+00:00"
         },
         {
-            "name": "financialplugins/omnipay-skrill",
+            "name": "casino/omnipay-skrill",
             "version": "1.0",
             "source": {
                 "type": "git",
-                "url": "https://github.com/financialplugins/omnipay-skrill.git",
+                "url": "https://github.com/casino/omnipay-skrill.git",
                 "reference": "d23f5a7788a3442d6807ca9b6b090facbc06810b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/financialplugins/omnipay-skrill/zipball/d23f5a7788a3442d6807ca9b6b090facbc06810b",
+                "url": "https://api.github.com/repos/casino/omnipay-skrill/zipball/d23f5a7788a3442d6807ca9b6b090facbc06810b",
                 "reference": "d23f5a7788a3442d6807ca9b6b090facbc06810b",
                 "shasum": ""
             },
@@ -1247,33 +1247,33 @@
             ],
             "authors": [
                 {
-                    "name": "FinancialPlugins",
-                    "email": "info@financialplugins.com"
+                    "name": "Casino",
+                    "email": "info@casino.com"
                 }
             ],
             "description": "Skrill driver for the Omnipay payment processing library",
-            "homepage": "https://github.com/financialplugins/omnipay-skrill",
+            "homepage": "https://github.com/casino/omnipay-skrill",
             "keywords": [
                 "omnipay",
                 "skrill"
             ],
             "support": {
-                "issues": "https://github.com/financialplugins/omnipay-skrill/issues",
-                "source": "https://github.com/financialplugins/omnipay-skrill/tree/1.0"
+                "issues": "https://github.com/casino/omnipay-skrill/issues",
+                "source": "https://github.com/casino/omnipay-skrill/tree/1.0"
             },
             "time": "2022-04-04T09:01:33+00:00"
         },
         {
-            "name": "financialplugins/omnipay-trongrid",
+            "name": "casino/omnipay-trongrid",
             "version": "1.1",
             "source": {
                 "type": "git",
-                "url": "https://github.com/financialplugins/omnipay-trongrid.git",
+                "url": "https://github.com/casino/omnipay-trongrid.git",
                 "reference": "d787e30829ca3545eb391063730df87459946794"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/financialplugins/omnipay-trongrid/zipball/d787e30829ca3545eb391063730df87459946794",
+                "url": "https://api.github.com/repos/casino/omnipay-trongrid/zipball/d787e30829ca3545eb391063730df87459946794",
                 "reference": "d787e30829ca3545eb391063730df87459946794",
                 "shasum": ""
             },
@@ -1296,12 +1296,12 @@
             ],
             "authors": [
                 {
-                    "name": "FinancialPlugins",
-                    "email": "info@financialplugins.com"
+                    "name": "Casino",
+                    "email": "info@casino.com"
                 }
             ],
             "description": "Trongrid driver for the Omnipay payment processing library",
-            "homepage": "https://github.com/financialplugins/omnipay-trongrid",
+            "homepage": "https://github.com/casino/omnipay-trongrid",
             "keywords": [
                 "crypto",
                 "omnipay",
@@ -1309,8 +1309,8 @@
                 "trongrid"
             ],
             "support": {
-                "issues": "https://github.com/financialplugins/omnipay-trongrid/issues",
-                "source": "https://github.com/financialplugins/omnipay-trongrid/tree/1.1"
+                "issues": "https://github.com/casino/omnipay-trongrid/issues",
+                "source": "https://github.com/casino/omnipay-trongrid/tree/1.1"
             },
             "time": "2020-12-19T10:49:10+00:00"
         },

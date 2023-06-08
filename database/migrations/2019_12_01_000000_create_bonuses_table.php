@@ -4,9 +4,9 @@
  *   ----------------------
  *   2019_12_01_000000_create_bonuses_table.php
  * 
- *   @copyright  Copyright (c) FinancialPlugins, All rights reserved
- *   @author     FinancialPlugins <info@financialplugins.com>
- *   @see        https://financialplugins.com
+ *   @copyright  Copyright (c) Casino, All rights reserved
+ *   @author     Casino <info@casino.com>
+ *   @see        https://casino.com
 */
 
 use Illuminate\Database\Migrations\Migration;

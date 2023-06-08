@@ -4,9 +4,9 @@
  *   ----------------------
  *   app.php
  * 
- *   @copyright  Copyright (c) FinancialPlugins, All rights reserved
- *   @author     FinancialPlugins <info@financialplugins.com>
- *   @see        https://financialplugins.com
+ *   @copyright  Copyright (c) Casino, All rights reserved
+ *   @author     Casino <info@casino.com>
+ *   @see        https://casino.com
 */
 
 return [
@@ -160,10 +160,10 @@ return [
 
     'api' => [
         'releases' => [
-            'base_url' => env('API_RELEASES_BASE_URL', 'https://stake.financialplugins.com/api/')
+            'base_url' => env('API_RELEASES_BASE_URL', 'https://stake.casino.com/api/')
         ],
         'products' => [
-            'base_url' => env('API_PRODUCTS_BASE_URL', 'https://financialplugins.com/api/')
+            'base_url' => env('API_PRODUCTS_BASE_URL', 'https://casino.com/api/')
         ],
     ],
 

@@ -1,5 +1,5 @@
 {
-  "name": "financialplugins/stake",
+  "name": "casino/stake",
   "description": "Stake iGaming platform",
   "keywords": [
     "laravel",
@@ -8,9 +8,9 @@
   ],
   "authors": [
     {
-      "name": "FinancialPlugins",
-      "email": "info@financialplugins.com",
-      "homepage": "https://financialplugins.com",
+      "name": "Casino",
+      "email": "info@casino.com",
+      "homepage": "https://casino.com",
       "role": "Developer"
     }
   ],
@@ -26,9 +26,9 @@
     "ext-zip": "*",
     "bacon/bacon-qr-code": "^2.0",
     "fideloper/proxy": "^4.0",
-    "financialplugins/omnipay-cryptapi": "^1.0",
-    "financialplugins/omnipay-skrill": "^1.0",
-    "financialplugins/omnipay-trongrid": "^1.1",
+    "casino/omnipay-cryptapi": "^1.0",
+    "casino/omnipay-skrill": "^1.0",
+    "casino/omnipay-trongrid": "^1.1",
     "fruitcake/laravel-cors": "^1.0",
     "guzzlehttp/guzzle": "^7.0.1",
     "iexbase/tron-api": "5.0",
@@ -68,7 +68,6 @@
     "preferred-install": "dist",
     "sort-packages": true,
     "platform-check": false
-
   },
   "extra": {
     "laravel": {
