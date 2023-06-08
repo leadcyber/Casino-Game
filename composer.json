@@ -1,5 +1,5 @@
 {
-  "name": "financialplugins/stake",
+  "name": "casino/stake",
   "description": "Stake iGaming platform",
   "keywords": [
     "laravel",
@@ -8,9 +8,9 @@
   ],
   "authors": [
     {
-      "name": "FinancialPlugins",
-      "email": "info@financialplugins.com",
-      "homepage": "https://financialplugins.com",
+      "name": "Casino",
+      "email": "info@casino.com",
+      "homepage": "https://casino.com",
       "role": "Developer"
     }
   ],
@@ -68,7 +68,6 @@
     "preferred-install": "dist",
     "sort-packages": true,
     "platform-check": false
-
   },
   "extra": {
     "laravel": {
